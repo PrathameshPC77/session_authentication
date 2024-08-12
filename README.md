@@ -52,7 +52,7 @@ This project demonstrates how to implement session-based authentication in a Dja
     ```bash
     python manage.py migrate
 
-6.**Run the Development Server:**
+6. **Run the Development Server:**
 
     ```bash
     python manage.py runserver
@@ -64,22 +64,19 @@ This project demonstrates how to implement session-based authentication in a Dja
 Usage
 
  `Register:` Go to /register/ to create a new account.
+ 
  `Login:` Go to /login/ to log in to your account.
+ 
  `Logout:` Click on the logout link to end your session.
 
 License
 
-    This project is licensed under the MIT License. See the LICENSE file for details.
+   This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contributing
 
-    Feel free to open issues or submit pull requests for improvements.
-
-Acknowledgments
-
-    Django Documentation
-    Django Session Authentication
+   Feel free to open issues or submit pull requests for improvements.
 
 Contact
 
-    For any questions or issues, please contact at prathu3322@gmail.com.
+   For any questions or issues, please contact at prathu3322@gmail.com.
