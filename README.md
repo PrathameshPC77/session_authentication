@@ -32,14 +32,14 @@ This project demonstrates how to implement session-based authentication in a Dja
 
 3. **Activate the Virtual Environment:**
 
-    Windows:
+    - Windows:
 
-        ```bash
+      ```bash
         .\env\Scripts\activate
 
-    macOS/Linux:
-
-        ```bash
+    - macOS/Linux:
+   
+      ```bash
         source env/bin/activate
 
 4. **Install the Requirements:**
@@ -52,20 +52,20 @@ This project demonstrates how to implement session-based authentication in a Dja
     ```bash
     python manage.py migrate
 
-  6.**Run the Development Server:**
+6.**Run the Development Server:**
 
     ```bash
     python manage.py runserver
     
-  7. **Access the Application:**
+7. **Access the Application:**
 
     Open your web browser and go to http://127.0.0.1:8000/ to view the application.
 
 Usage
 
-    `Register:` Go to /register/ to create a new account.
-    `Login:` Go to /login/ to log in to your account.
-    `Logout:` Click on the logout link to end your session.
+ `Register:` Go to /register/ to create a new account.
+ `Login:` Go to /login/ to log in to your account.
+ `Logout:` Click on the logout link to end your session.
 
 License
 
